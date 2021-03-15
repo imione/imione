@@ -68,6 +68,6 @@ GraphQL, Kubernetes, Terraform
 ## Contacts
 
 
-Email: imione9@gmail.com
+Email: soohyun.kim.dev@gmail.com
 
 Social media: [facebook](https://www.facebook.com/soohyun.kim.370), [instagram](https://www.instagram.com/kill9_kim/), [linkedIn](https://www.linkedin.com/in/soohyun-kim-6a92a7119/)
